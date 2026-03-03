@@ -1,7 +1,7 @@
 # Visitor Pattern
 
 ## Project Overview
-[cite_start]This project demonstrates the implementation of the **Visitor Design Pattern**[cite: 18]. [cite_start]The Visitor Pattern is a behavioral design pattern that allows us to add new operations to a hierarchy of objects without modifying their existing classes[cite: 23]. [cite_start]This implementation focuses on separating the logic of promotional offers from the core telecommunication subscription data[cite: 24, 28].
+This project demonstrates the implementation of the **Visitor Design Pattern**.The Visitor Pattern is a behavioral design pattern that allows us to add new operations to a hierarchy of objects without modifying their existing classes.This implementation focuses on separating the logic of promotional offers from the core telecommunication subscription data.
 
 ## Problem Scenario
 Imagine you are looking for a new mobile plan for your smartphone. Three major telecommunication providers are offering enticing deals: Smart, Globe, and Ditto.
